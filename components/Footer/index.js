@@ -49,7 +49,7 @@ const FooterLink = ({ children, goto, ...rest }) => {
           target="_blank"
           rel="noopener noreferrer"
           href="https://twitter.com/kidaqrus"
-          aria-label="Go To Adenekan Wonderful Twitter Page"
+          aria-label="Go To Ahmed sule Twitter Page"
           title="Twitter Page"
         >
           <Twitter />
@@ -58,8 +58,8 @@ const FooterLink = ({ children, goto, ...rest }) => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://linkedin.com/in/kidaqrus"
-          aria-label="Go To Adenekan Wonderful Linkedin Page"
+          href="https://linkedin.com/in/ahmed-sule-98a064158"
+          aria-label="Go To Ahmed sule's Linkdln"
           title="Linkedin Page"
         >
           <Linkedin />
