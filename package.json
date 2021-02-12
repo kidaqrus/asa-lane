@@ -1,11 +1,11 @@
 {
-  "name": "codewonders",
+  "name": "kidaqrus",
   "version": "1.5.0",
   "private": false,
   "license": "MIT",
-  "repository": "git://github.com/adenekan41/codewonders.git",
-  "description": "Adenekan Wonderful's Website",
-  "author": "Adenekan Wonderful <hellocodewonders@gmail.com> (https://codewonders.dev)",
+  "repository": "git://github.com/kidaqrus/asa-lane.git",
+  "description": "Ahmed Sule's Website",
+  "author": "Ahmed sule <adikwusule@gmail.com> ",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -20,6 +20,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "codewonders-helpers": "0.0.3",
+    "gh-pages": "^3.1.0",
     "next": "10.0.4",
     "next-page-transitions": "^1.0.0-beta.2",
     "next-pwa": "^1.1.1",
