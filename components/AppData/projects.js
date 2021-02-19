@@ -1,36 +1,36 @@
 const PROJECTS_DATA = [
   {
-    title: 'Piggment',
-    description: 'The Gradients and colours for the next smart creator',
+    title: 'Todo app',
+    description: 'my Little Todo app with the power of React Navgation',
     about:
-      'Piggment is curated collection of amazingly colored gradients for designers, developers and smart creators over the world. now you can generate, explore, save, easy CSS crossbrowser gradient codes all in one place.',
-    link: 'https://piggment.co',
-    imageUrl: 'https://i.ibb.co/tCZFDhL/Screen-Recording-2020-06-11-at-1.gif',
-    github: 'https://github.com/adenekan41/piggment',
-    type: ['project', 'open-source', 'tools'],
-    technologies: ['React', 'Sass & CSS', 'Javascript', 'Context'],
+      'This is a todo app that stores your daily activities for a more purposeful events with navigation to show the power of React',
+    link: 'https://kidaqrus.github.io/spa-mpa/',
+    imageUrl: 'https://i.ibb.co/hZZBJhy/Screenshot-20210219-162149.jpg',
+    github: 'https://github.com/kidaqrus/spa-mpa',
+    type: ['project', 'open-source',],
+    technologies: ['React', 'Sass & CSS', 'Javascript', 'Github-Pages'],
   },
   {
-    title: 'Shoprrr',
-    description: 'An E-commerce Application For Buying Cotton Products.',
-    github: 'https://github.com/adenekan41/shoprrr',
+    title: 'portofolio',
+    description: 'A Portfolio to display your skill set',
+    github: 'https://github.com/kidaqrus/myspace/',
     about:
-      'Shoprrr is an e-commerce platform catered towards giving the best and fast experience for customers to buy cotton products, we call its a frictionless process from start to finish.',
-    link: 'https://shoprrr.netlify.com',
-    imageUrl: 'https://i.ibb.co/T0XwFsQ/Screen-Recording-2020-05-06-at-3.gif',
+      'This little side project was built to show case skillset in other to be seen and heard with mobile first responsiveness and a simple layout',
+    link: 'https://fierce-waters-80706.herokuapp.com/',
+    imageUrl: 'https://i.ibb.co/1JcsQ8m/IMG-20210219-181815.jpg',
     type: ['project'],
-    technologies: ['React', 'Redux Saga', 'Javascript', 'Firebase'],
+    technologies: ['Express.js', 'CSS', 'Javascript', 'Heroku'],
   },
   {
-    title: '54gene',
-    description: 'Discover Yourself Through Your Genes.',
+    title: 'Movie Seach App',
+    description: 'Search all your movie in one place',
     about:
-      'Africans house the most genetically diverse DNA in comparison to all other world populations combined. In gathering insights from the African genome, we could power medical breakthroughs and discoveries that will change the entire landscape of healthcare, globally. We fully recognise the tremendous potential that this presents. Presently, most genomic data used for development research is from Europe, United Kingdom and North America with African genomic data only accounting for less than 3%. This is where we come in. We exist to close this gap by increasing access to highly curated genomic data from African populations.',
-    link: 'https://54gene.com',
+      'This a a little movie app that lets you search all movies, the year it went into production and links to where you can get them',
+    link: 'https://app-vid.herokuapp.com',
     imageUrl:
-      'https://i.ibb.co/6gZckMz/Screenshot-2020-05-04-at-4-34-31-AM.png',
+      'https://i.ibb.co/PmnzQmg/IMG-20210219-184703.jpg',
     type: ['others', 'project'],
-    technologies: ['Vuejs', 'Javascript', 'Vuex'],
+    technologies: ['Vuejs', 'Javascript', 'Firebase', 'OMDB-api'],
   },
   
   
