@@ -13,7 +13,7 @@ import FooterLink from '../components/Footer';
 
 const Resume = () => {
   const resumeData =
-    'https://www.canva.com/design/DAEEkidwA2Q/view?utm_content=DAEEkidwA2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink';
+    'https://www.canva.com/design/DAEWBQhIX1g/cWXvjmmIeANT03BqcVCiyw/view?utm_content=DAEWBQhIX1g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink';
 
   const previewData = `${resumeData.substr(
     0,
@@ -64,7 +64,7 @@ const Resume = () => {
             allowFullScreen
             width="740"
             height="780"
-            title="Adenekan Wonderful Resumé"
+            title="Ahmed Adikwu sule Resumé"
           />
         </PageSection>
         <br />

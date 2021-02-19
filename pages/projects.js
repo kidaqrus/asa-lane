@@ -49,16 +49,7 @@ const Projects = () => {
                 )}
               </MansoryLayout>
             </TabItems>
-            <TabItems label="Open Source">
-              <MansoryLayout>
-                {projectsData.map(
-                  (item, index) =>
-                    item.type.includes('open-source') && (
-                      <MansoryItem key={index} index={index} item={item} />
-                    )
-                )}
-              </MansoryLayout>
-            </TabItems>
+            
             <TabItems label="Designs" href="https://dribbble.com/codewonders" />
           </Tabs>
         </PageWrapper>
