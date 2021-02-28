@@ -1,12 +1,12 @@
 <p align="center">
 <img src="https://codewonders.dev/icons/favicon-96x96.png"/>
     
-<h1 align="center"><a href="https://codewonders.dev">Adenekan Wonderful</a></h1>
-<p align="center"> Frontend developer and Javascript engineer</p>
+<h1 align="center"><a href="https://github.com/kidaqrus/asa-lane">ASA</a></h1>
+<p align="center"> Fullstack developer </p>
 
 </p>
 
-<img src="https://i.ibb.co/NS0S4XR/image.png"/>
+<img src="/https://i.ibb.co/jL7RLNk/IMG-20210220-080811.jpg" />
 
 ## Running locally in development mode
 
