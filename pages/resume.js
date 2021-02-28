@@ -36,7 +36,7 @@ const Resume = () => {
               .{' '}
               <b>
                 <a
-                  href={`https://drive.google.com/file/d/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
+                  href={`https://drive.google.com/file/d/1RqHBgNu2iSn6eOyWQV3YMMrBdQHF9kFA/view?usp=sharing/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Go to Resumé Page"
@@ -47,7 +47,7 @@ const Resume = () => {
               or{' '}
               <b>
                 <a
-                  href={`https://drive.google.com/file/d/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
+                  href={`https://drive.google.com/file/d/1RqHBgNu2iSn6eOyWQV3YMMrBdQHF9kFA/view?usp=sharing/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Go to Resumé Page"
