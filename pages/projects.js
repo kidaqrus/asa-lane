@@ -50,7 +50,7 @@ const Projects = () => {
               </MansoryLayout>
             </TabItems>
             
-            <TabItems label="Designs" href="#" />
+            
           </Tabs>
         </PageWrapper>
       </PageSection>
