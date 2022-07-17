@@ -41,7 +41,7 @@ const Layout = ({ children, title = 'Home' }) => {
     <Main>
       <BodyStyling theme={theme} />
       <Helmet>
-        <title>{`${title} | Ahmed Sule | Codewonders`}</title>
+        <title>{`${title} | Ahmed Sule | ASA`}</title>
         <meta
           name="msapplication-TileColor"
           content={`${theme ? '#000000' : '#FFFFFF'}`}
