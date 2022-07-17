@@ -22,7 +22,7 @@ const Navbar = () => {
               <a
                 href="#!"
                 className="navbar-brand"
-                aria-label="Adenekan Wonderful Home"
+                aria-label="Ahmed sule Home"
               >
                 <h1>ASA</h1>
               </a>
